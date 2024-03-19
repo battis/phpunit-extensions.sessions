@@ -5,7 +5,7 @@ namespace Battis\PHPUnit\Sessions;
 use PHPUnit\Runner\AfterLastTestHook;
 
 /**
- * @package battis\phpunit-sessions foo bar baz testings
+ * @package battis\phpunit-sessions
  */
 class Extension implements AfterLastTestHook
 {
